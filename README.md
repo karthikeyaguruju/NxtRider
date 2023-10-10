@@ -1,5 +1,5 @@
 # Rider
-Mern stack project on car booking services 🏎️🏎️🏎️
+Mern Stack Project On Car Booking Services 🏎️🏎️🏎️
 
-Live Demo app  https://nxtriders.herokuapp.com/
+Live Demo app <a href="https://github.com/karthikeyaguruju/NxtRider">LIVE DEMO</a> 
 
